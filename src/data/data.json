@@ -1,0 +1,83 @@
+{
+  "Header": {
+    "title": "MAKE FROM HEART",
+    "text": "cái gì đó hay hay."
+  },
+  "About": {
+    "paragraph": "Mục đích của chúng tôi là mang đến thực phẩm và nước uống cho những người đang cần nó. Nếu bất kỳ mạnh thường quân nào đó ủng hộ cho chúng tôi, chúng tôi sẽ phân phối nó đến những người cần nó trong khu vực Tp.HCM thông qua dự án của chúng tôi. Do đó, điều này sẽ giúp một phần bữa ăn và nước uống và cũng có lợi cho bộ phận yếu thế của xã hội, những người đang là người thân bệnh nhân, người gặp nghèo và người thu nhập thâp...",
+    "Why": ["lý do 1", "lý do 2", "lý do 3", "lý do 4"],
+    "Why2": ["lý do 5", "lý do 6", "lý do 7", "lý do 8"]
+  },
+  "Services": [
+    {
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdFuqT7NJ_pJxSZmzk1GazajkW_iURgSEy4slnoq-uZR4eIQA/viewform?usp=sf_link",
+      "icon": "fa fa-credit-card",
+      "name": "Ủng hộ",
+      "text": "Cái gì đó"
+    },
+    {
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdFuqT7NJ_pJxSZmzk1GazajkW_iURgSEy4slnoq-uZR4eIQA/viewform?usp=sf_link",
+      "icon": "fa fa-lightbulb-o",
+      "name": "Góp công sức",
+      "text": "Cái gì đó."
+    },
+    {
+      "link": "https://www.facebook.com/teamaoxanh",
+      "icon": "fa fa-user-plus",
+      "name": "Thành viên nhóm",
+      "text": "Cái gì đó"
+    }
+  ],
+  "Teams": [
+    {
+      "name": "Tuấn Trân",
+      "job": "Team Manager",
+      "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftuantran.jpg?alt=media&token=510a4e61-49b9-41ec-92cd-116129e9a9b4"
+    },
+    {
+      "name": "Trâm Nguyễn",
+      "job": "Team F-Manager",
+      "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Fngoctram.jpg?alt=media&token=b8f54bf6-e9db-48fb-a9ac-1d85c0f4e495"
+    },
+    {
+      "name": "Jones Pham",
+      "job": "Developer",
+      "img": "https://lh3.googleusercontent.com/a-/AOh14Giy-jR1q1k_cbUH7_BJ6Bu0VdN81AugHK_RwTXWUQ=s288-p-rw-no"
+    },
+    {
+      "name": "Nguyễn Ngọc Trang",
+      "job": "Menber",
+      "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftrang.jpg?alt=media&token=76d710e8-cd24-4dd6-8139-7617cc8bccdc"
+    },
+    {
+      "name": "Toàn Nguyễn",
+      "job": "Member",
+      "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftoan.jpg?alt=media&token=b0726f49-2804-429d-b920-7369482e34d5"
+    },
+    {
+      "name": "Trang HR",
+      "job": "Member",
+      "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftranghr.jpg?alt=media&token=fa7efd90-d592-4b6d-8144-e8dbafc44850"
+    }
+  ],
+
+  "Contact": {
+    "address": "Thành phố Hồ Chí Minh, Việt Nam",
+    "phone": "0909 860 611",
+    "email": "teamaoxanh.hcm@gmail.com",
+    "facebook": "https://www.facebook.com/teamaoxanh",
+    "youtube": "https://www.youtube.com/channel/UCUvKTHBL-uuFRZd6lj1bsVQ"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-cutlery",
+      "title": "Đồ Ăn Sáng",
+      "text": "mô tả nè"
+    },
+    {
+      "icon": "fa fa-tint",
+      "title": "Nước Uống",
+      "text": "mô tả nè"
+    }
+  ]
+}
