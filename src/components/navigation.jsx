@@ -51,6 +51,11 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
+              <a href="https://facebook.com/teamaoxanh" className="page-scroll">
+                Blog
+              </a>
+            </li>
+            <li>
               <a href="#contact" className="page-scroll">
                 Liên Hệ
               </a>
