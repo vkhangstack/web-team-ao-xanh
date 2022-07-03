@@ -15,7 +15,7 @@ export const Features = (props) => {
                   {" "}
                   <i className={d.icon}></i>
                   <h3>{d.title}</h3>
-                  <p>{d.text}</p>
+                  {/* <p>{d.text}</p> */}
                   <br></br>
                 </div>
               ))

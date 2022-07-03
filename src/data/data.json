@@ -13,50 +13,50 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSdFuqT7NJ_pJxSZmzk1GazajkW_iURgSEy4slnoq-uZR4eIQA/viewform?usp=sf_link",
       "icon": "fa fa-credit-card",
       "name": "Ủng hộ",
-      "text": "Cái gì đó"
+      "text": "Nội dung ghi cái gì đó"
     },
     {
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSdFuqT7NJ_pJxSZmzk1GazajkW_iURgSEy4slnoq-uZR4eIQA/viewform?usp=sf_link",
       "icon": "fa fa-lightbulb-o",
-      "name": "Góp công sức",
-      "text": "Cái gì đó."
+      "name": "Góp công",
+      "text": "Nội dung ghi cái gì đó"
     },
     {
       "link": "https://www.facebook.com/teamaoxanh",
       "icon": "fa fa-user-plus",
-      "name": "Thành viên nhóm",
-      "text": "Cái gì đó"
+      "name": "Thành viên",
+      "text": "Nội dung ghi cái gì đó"
     }
   ],
   "Teams": [
     {
       "name": "Tuấn Trân",
-      "job": "Team Manager",
+      "job": "Trưởng nhóm",
       "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftuantran.jpg?alt=media&token=510a4e61-49b9-41ec-92cd-116129e9a9b4"
     },
     {
       "name": "Trâm Nguyễn",
-      "job": "Team F-Manager",
+      "job": "Phó nhóm",
       "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Fngoctram.jpg?alt=media&token=b8f54bf6-e9db-48fb-a9ac-1d85c0f4e495"
     },
     {
       "name": "Jones Pham",
-      "job": "Developer",
+      "job": "Trưởng bộ phận IT",
       "img": "https://lh3.googleusercontent.com/a-/AOh14Giy-jR1q1k_cbUH7_BJ6Bu0VdN81AugHK_RwTXWUQ=s288-p-rw-no"
     },
     {
       "name": "Nguyễn Ngọc Trang",
-      "job": "Menber",
+      "job": "Thành viên",
       "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftrang.jpg?alt=media&token=76d710e8-cd24-4dd6-8139-7617cc8bccdc"
     },
     {
       "name": "Toàn Nguyễn",
-      "job": "Member",
+      "job": "Thành viên",
       "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftoan.jpg?alt=media&token=b0726f49-2804-429d-b920-7369482e34d5"
     },
     {
       "name": "Trang HR",
-      "job": "Member",
+      "job": "Thành viên",
       "img": "https://firebasestorage.googleapis.com/v0/b/team-ao-xanh.appspot.com/o/images%2Ftranghr.jpg?alt=media&token=fa7efd90-d592-4b6d-8144-e8dbafc44850"
     }
   ],

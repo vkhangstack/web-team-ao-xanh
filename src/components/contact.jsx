@@ -17,11 +17,10 @@ export const Contact = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(name, zalo, message);
     emailjs
       .sendForm(
-        "service_qawc49n",
-        "template_buwhomu",
+        "service_gmail_teamaoxanh",
+        "gmail_teamaoxanh",
         e.target,
         "WMGZjpGmQV_6efSLS"
       )
@@ -43,7 +42,7 @@ export const Contact = (props) => {
             <div className="row">
               <div className="section-title">
                 <h2>Liên lạc với chúng tôi</h2>
-                <p>Hãy để lại thông tin chúng tôi sẽ liên hệ cho bạn!</p>
+                <p>Hãy để lại thông tin chúng tôi sẽ liên hệ với bạn!</p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
